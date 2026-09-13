@@ -1,4 +1,1 @@
-﻿# GitHub always attaches "Source code (zip|tar.gz)" to every Release (cannot be turned off).
-# Those are git archives of THIS download-site repo — never SimHub Deck product source.
-# Exclude everything from git archive so those automatic links download empty stubs.
 * export-ignore
