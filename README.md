@@ -2,18 +2,15 @@
 
 **SimHub Deck** connects **SimHub** and an **Elgato Stream Deck+** for sim racing: live telemetry on the deck, game-mapped controls, MOZA wheel/base tooling (via AZOM), Wheel Studio, and phone dashboards.
 
-This repository is the **public download site**. It publishes installer builds only. Source code is not here.
+This repository is the **public download site**. It publishes **full** installer builds only. Source code is not here.
 
 ## Download
 
-Grab the latest installer from **[Releases](https://github.com/jam31337x/SimHub-Deck-Releases/releases/latest)**.
+Grab the latest **full** installer from **[Releases](https://github.com/jam31337x/SimHub-Deck-Releases/releases/latest)**.
 
-| Package | Who it is for |
-| --- | --- |
-| `SimHubDeck-Setup-x.y.z.zip` | Normal update / Discord-sized zip (recommended) |
-| `SimHubDeck-Setup-x.y.z-full.zip` | Full first-install package when offered on a release |
+File name: `SimHubDeck-Setup-x.y.z.zip` — unzip, then run **`SimHubDeck-Setup.exe`**.
 
-Unzip the folder, then run **`SimHubDeck-Setup.exe`**.
+Discord cannot attach these zips (guild upload limit is **25 MB**). Announcements link here instead.
 
 ## Install
 
