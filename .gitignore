@@ -1,7 +1,8 @@
 ﻿# This repo ships installer zips via GitHub Releases only.
-# Never commit source trees, private docs, .env, or build intermediates.
+# Never commit product source trees, private docs, .env, or build intermediates.
 *
-!README.md
 !.gitignore
+!.gitattributes
+!README.md
 !LICENSE
 !NOTICE.md
