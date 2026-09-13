@@ -2,15 +2,15 @@
 
 **SimHub Deck** connects **SimHub** and an **Elgato Stream Deck+** for sim racing: live telemetry on the deck, game-mapped controls, MOZA wheel/base tooling (via AZOM), Wheel Studio, and phone dashboards.
 
-This repository is the **public download site**. It publishes **full** installer builds only. Source code is not here.
+This repository is the **public download site** only. It publishes **full installer zips** on [Releases](https://github.com/jam31337x/SimHub-Deck-Releases/releases/latest). **Product source code is never published here.**
 
 ## Download
 
-Grab the latest **full** installer from **[Releases](https://github.com/jam31337x/SimHub-Deck-Releases/releases/latest)**.
-
-File name: `SimHubDeck-Setup-x.y.z.zip` — unzip, then run **`SimHubDeck-Setup.exe`**.
+Grab `SimHubDeck-Setup-x.y.z.zip` from **[Releases](https://github.com/jam31337x/SimHub-Deck-Releases/releases/latest)**, unzip, and run **`SimHubDeck-Setup.exe`**.
 
 Discord cannot attach these zips (guild upload limit is **25 MB**). Announcements link here instead.
+
+> **About the grey “Source code” links on each Release:** GitHub always adds those for every tag. They are not the SimHub Deck plugin source. This repo is download-site files only, and those archives are intentionally empty.
 
 ## Install
 
@@ -38,12 +38,6 @@ The plugin stays fully usable without paying.
 ## Safety note (MOZA)
 
 High-torque bases can injure you or damage equipment. Prefer physical power-cycle recovery when the base is in a bad state. Do not run Pit House and AZOM against the same base port at the same time.
-
-## Support
-
-1. Check the latest **Release** notes on this page.
-2. Ask in **Discord**.
-3. Watch setup / feature videos on **YouTube**.
 
 ---
 
