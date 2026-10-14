@@ -2,13 +2,13 @@
 
 SimHub Deck is a SimHub plugin and Stream Deck layout for sim racing. It puts live car information and a few driving controls on a Stream Deck+, can light a supported MOZA wheel, and can show the song playing on another PC.
 
-The download on this page is the public installer, **1.5.30**.
+The download on this page is the public installer, **1.5.40**.
 
 ## Download
 
-[Download SimHub Deck 1.5.30](https://github.com/jam31337x/SimHub-Deck-Releases/releases/download/1.5.30/SimHubDeck-Setup-1.5.30.zip)
+[Download SimHub Deck 1.5.40](https://github.com/jam31337x/SimHub-Deck-Releases/releases/download/1.5.40/SimHubDeck-Setup-1.5.40.zip)
 
-Release page: [SimHub Deck 1.5.30](https://github.com/jam31337x/SimHub-Deck-Releases/releases/tag/1.5.30)
+Release page: [SimHub Deck 1.5.40](https://github.com/jam31337x/SimHub-Deck-Releases/releases/tag/1.5.40)
 
 Unzip the whole folder, then run `SimHubDeck-Setup.exe`. Discord cannot attach this zip. The grey Source code links on the release are empty GitHub archives, not the plugin.
 
@@ -22,7 +22,7 @@ Each profile ends with pedal gauges, a feel page, and a rig page. The page knob 
 
 ### Lights
 
-In SimHub, open SimHub Deck, then Lights. Startup has 15 shows, idle has 15 effects, and a car without documented lights can use one of 15 RPM looks. A documented car keeps that car's lights. The pillars climb before the shift point. Flag flashes stay on the wheel buttons. Dark frames stay dim on purpose. A keyboard test turns on one key at a time. Three presets appear on AZOM's LFE page. You pick one there. Deck does not turn them on for you.
+In SimHub, open SimHub Deck, then Lights. Startup has 15 shows, idle has 15 effects, and a car without documented lights can use one of 15 RPM looks. A documented car keeps that car's lights. The pillars climb before the shift point. Flag flashes stay on the wheel buttons. Dark frames stay dim on purpose. You can save that lighting setup as a preset. If you have not saved one yet, Night, Stream, and Track day are already in the list. A keyboard test turns on one key at a time. Three presets appear on AZOM's LFE page. You pick one there. Deck does not turn them on for you.
 
 Wheel lights need a MOZA wheel that Deck already knows and AZOM installed separately. This installer does not include a filmed check of every LED.
 
@@ -89,12 +89,12 @@ Built by MJ Systems / InGamingX. In SimHub the name is **SimHub Deck**.
 
 ## Not in this installer
 
-- Local development may include an ETS2 Stream Deck **CONDITION** page with large engine/gearbox/cabin/chassis/wheels/trailer wear and cargo-damage percentages on the keys (not dials). That page is not in the public 1.5.30 installer.
+- Local development may include an ETS2 Stream Deck **CONDITION** page with large engine/gearbox/cabin/chassis/wheels/trailer wear and cargo-damage percentages on the keys (not dials). That page is not in the public 1.5.40 installer.
 - There is no MOZA firmware-update mode.
 - This PC’s local AZOM is 1.6.3 with Deck’s compatibility patch. A later local AZOM file is accepted only when the same safety-method contracts still match. The public installer still expects you to install AZOM 1.5.7 yourself. Setup does not download or replace it.
-- Local development keeps one generated Stream Deck profile per game. ETS2 suspension and camera chords on this PC use Shift+letter so they do not share Numpad keys with windows, debug or quick-select. That bind change is not in the public 1.5.30 installer.
+- Local development keeps one generated Stream Deck profile per game. ETS2 suspension and camera chords on this PC use Shift+letter so they do not share Numpad keys with windows, debug or quick-select. That bind change is not in the public 1.5.40 installer.
 
-These are not promises of the 1.5.30 zip:
+These are not promises of the 1.5.40 zip:
 
 - A hardware report can be saved on this PC. Sending it stays off until the intake service is configured. The detected Windows name stays separate from a model name you type.
 - A guarantee of synced lyrics for every song, or word-by-word highlighting.
